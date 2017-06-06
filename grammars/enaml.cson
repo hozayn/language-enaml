@@ -384,4 +384,4 @@ patterns: [
     include: "source.python"
   }
 ]
-scopeName: "source.enaml"
+scopeName: "source.python.enaml"
